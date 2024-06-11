@@ -10,3 +10,7 @@ In this case study I will demonstrate some basic web scraping, data analyses and
 ### Goal
 
 To predict the upcoming NBA Championship team for this season in year 2024.
+
+### Web-App:
+```bash
+streamlit run app.py
